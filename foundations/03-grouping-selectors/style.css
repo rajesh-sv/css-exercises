@@ -1,0 +1,14 @@
+.button1,
+.button2 {
+  font-size: 28px;
+  font-family:'Courier New', Courier, monospace;
+}
+
+.button1 {
+  background-color: black;
+  color: aliceblue;
+}
+
+.button2 {
+  background-color: azure;
+}
